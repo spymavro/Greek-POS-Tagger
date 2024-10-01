@@ -34,7 +34,7 @@ To set up this project for use or development, follow these steps:
 **Note**: This command processes the embedded sample text and displays results from the part-of-speech analysis directly to your console.
 
 ## Contact
-For permissions or inquiries, please contact me at spyros.mauromatis@gmail.com
+For any inquiries or collaboration requests, please reach out via GitHub or email at spyros.mauromatis@gmail.com.
 
 
 
